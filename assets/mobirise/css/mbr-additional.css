@@ -3812,6 +3812,15 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rtN0ydVFq4 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rtN0ydVFq4 .mbr-text,
+.cid-rtN0ydVFq4 blockquote {
+  color: #767676;
+}
 .cid-rtyAV79qHF .navbar {
   padding: .5rem 0;
   background: #333333;
